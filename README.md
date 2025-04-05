@@ -1,10 +1,3 @@
-Here's a **technical and professional GitHub README snippet** and a **LinkedIn post** tailored to showcase your *Image Classification using CNN* project. You can copy-paste and tweak them as needed.
-
----
-
-### 🔹 GitHub README Snippet (for your repository)
-
-```markdown
 # 🐱🐶 Image Classification - Cats vs Dogs (CNN | TensorFlow | KaggleHub)
 
 This project implements an end-to-end **Image Classification** system using a **Convolutional Neural Network (CNN)** built with **TensorFlow/Keras** to distinguish between cats and dogs. The dataset is sourced from **KaggleHub** and consists of 25,000 labeled images split into training and testing sets.
