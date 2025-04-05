@@ -1,4 +1,4 @@
-# 🐱🐶 Image Classification - Cats vs Dogs (CNN | TensorFlow | KaggleHub)
+# Image Classification - Cats vs Dogs (CNN | TensorFlow | KaggleHub)
 
 This project implements an end-to-end **Image Classification** system using a **Convolutional Neural Network (CNN)** built with **TensorFlow/Keras** to distinguish between cats and dogs. The dataset is sourced from **KaggleHub** and consists of 25,000 labeled images split into training and testing sets.
 
